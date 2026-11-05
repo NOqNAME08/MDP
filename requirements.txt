@@ -1,0 +1,5 @@
+openai
+pillow
+fastapi
+python-dotenv
+uvicorn
